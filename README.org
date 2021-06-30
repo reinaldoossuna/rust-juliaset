@@ -1,0 +1,13 @@
+* Julia set generator
+
+#+attr_html: :width 300px
+[[./julia.png]]
+#+attr_html: :width 300px
+[[./mandelbrot.png]]
+
+
+* TODOs
+- [ ] Run function is awfull
+- [ ] Multithread
+- [ ] cli commands
+- [ ] Function to set background and/or color pattern
